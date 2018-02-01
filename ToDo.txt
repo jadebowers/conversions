@@ -1,0 +1,4 @@
+Conversion functions needed:
+
+- dollars to cents
+- 
